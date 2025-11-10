@@ -33,10 +33,10 @@ At the same time, we remain highly responsive - reach out and we’ll discuss th
 ## **`ᛗ`** Team
 
 [**Vard**](https://x.com/0xVard)  
-Background in product and engineering. Executive MBA graduate with a strong understanding of business strategy, protocol economics, and system design.  
+Engineer and product leader with **10+ years of experience** across complex systems. Executive MBA graduate with a strong foundation of business strategy, protocol economics, and system design.  
 
 [**Milamber**](https://x.com/milamberr97)  
-Engineer at heart. Masters degree in Computer Science with a passion for solving complex problems and breaking systems down to their fundamentals.  
+Engineer at heart with **5+ years of hands-on experience in Fintech**. Master's degree in Computer Science and a passion for solving complex problems and breaking systems down to their fundamentals.  
 
 ## **`ᚷ`** Our work
 
