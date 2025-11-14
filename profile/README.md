@@ -25,7 +25,8 @@ Our goal is clear:
 ## **`ᚲ`** Book us  
 If you are looking for independent security researchers to audit your protocol, you can contact us at:
 
-[![a](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/algizsec)
+[![a](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/algizsec) 
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/algizsec)
 
 We keep a limited number of audit slots to ensure depth and uncompromising quality.  
 At the same time, we remain highly responsive - reach out and we’ll discuss the best way to support your launch and timeline.
