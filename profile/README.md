@@ -1,43 +1,46 @@
 ## **`ᛉ`** About us  
-Independent smart contract security team focused on helping protocols launch with confidence by delivering audits with depth, precision, and speed.
+Security partner for early-stage protocols.
 
-We believe that trust is the foundation of Web3 - and trust is impossible without security.
-Without security, users will not deposit capital, and protocols cannot gain traction, grow, or scale.
+We audit smart contracts for teams that need thorough security without enterprise timelines or big-firm bureaucracy. Founders who take security seriously but aren't ready for $50k audits and weeks-long queues.
+
+We built Algiz because smaller teams deserve the same focused attention as large, well-established protocols.
 
 Our mission is simple:  
-**Build the trust layer that Web3 needs to scale.**
+**Make security accessible to every serious builder.**
 
+With us you get:
+- Quote in 24h, start same week
+- Direct access to security experts reviewing your code
+- Manual review of every line, every path
+
+Security shouldn't be a luxury reserved for well-funded protocols.  
+A critical vulnerability doesn't care how much you raised.
 
 ## **`ᚱ`** Our story  
-Fascinated by blockchain technology, we saw the immense value and potential it brings.  
-As we went deeper into the industry, we also saw another reality: brilliant ideas held back by critical vulnerabilities, flawed assumptions, and devastating exploits that wiped out user funds and ended promising protocols.
+We came from engineering and product - years building systems, shipping products, and learning what breaks under pressure.
 
-Coming from product, engineering, and systems backgrounds, we recognized a core truth:
+We've also been on the other side. Personally invested in protocols during the ICO era, we watched promising projects get wrecked by exploits that a proper review would have caught. Not poor ideas - poor security.
 
-Security is the single biggest factor preventing mass adoption.  
-Users will not trust protocols with their assets unless the underlying logic is sound - every edge case, every invariant, every assumption.
+We decided we couldn't stand by and watch. We could actually help. 
+In parallel to private audits, we compete on Sherlock and Immunefi to sharpen our skills against real vulnerabilities. 25+ critical, high, and medium findings across diverse codebases.
 
-We founded Algiz to help solve this problem.
+Our goal is to **become the trusted security partner behind the next wave of protocols**.
 
-Our goal is clear:  
-**Become the trusted security partner behind the protocols that will drive Web3’s next wave of growth.**
 
 ## **`ᚲ`** Book us  
-If you are looking for independent security researchers to audit your protocol, you can contact us at:
+Contact us on:
 
 [![a](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/algizsec) 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/algizsec)
 
-We keep a limited number of audit slots to ensure depth and uncompromising quality.  
-At the same time, we remain highly responsive - reach out and we’ll discuss the best way to support your launch and timeline.
+We keep limited slots to ensure quality. Reach out and we'll find the right timeline for your launch.  
 
 ## **`ᛗ`** Team
 
-[**Vard**](https://x.com/0xVard)  
-Engineer and product leader with **10+ years of experience** across complex systems. Executive MBA graduate with a strong foundation of business strategy, protocol economics, and system design.  
+[**Vard**](https://x.com/0xVard)  - **10+ years in engineering and product**. Executive MBA. Focused on system design and protocol economics.
 
-[**Milamber**](https://x.com/milamberr97)  
-Engineer at heart with **5+ years of hands-on experience in Fintech**. Master's degree in Computer Science and a passion for solving complex problems and breaking systems down to their fundamentals.  
+[**Milamber**](https://x.com/milamberr97)  - **5+ years in Fintech engineering**. MS in Computer Science. Breaks systems to find what other miss.
+
 
 ## **`ᚷ`** Our work
 
