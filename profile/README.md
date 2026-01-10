@@ -44,6 +44,8 @@ We keep limited slots to ensure quality. Reach out and we'll find the right time
 
 ## **`ᚷ`** Our work
 
+### Contests
+
 
 | #   | Date     | Protocol                                               |  Findings               | Report               | Type          |  Platform           | More Details               |
 |-----|----------|--------------------------------------------------------|-------------------------|----------------------|---------------|---------------------|----------------------------|
@@ -59,3 +61,10 @@ We keep limited slots to ensure quality. Reach out and we'll find the right time
 | 3   | 06/25  | [Superfluid Locker System](https://audits.sherlock.xyz/contests/968) | ![MEDIUM](https://img.shields.io/badge/M-1?style=flat-square&label=1&labelColor=000000&color=orange) | [Open](https://audits.sherlock.xyz/contests/968/report) | Yield staking | Sherlock | 6th place |
 | 2   | 05/25  | [LEND](https://audits.sherlock.xyz/contests/908) | ![HIGH](https://img.shields.io/badge/H-1?style=flat-square&label=4&labelColor=000000&color=8B0000) | [Open](https://audits.sherlock.xyz/contests/908/report) | Cross-chain lending | Sherlock |  |
 | 1   | 05/25  | [LayerEdge - Staking](https://audits.sherlock.xyz/contests/952) | ![MEDIUM](https://img.shields.io/badge/M-1?style=flat-square&label=1&labelColor=000000&color=orange) | [Open](https://audits.sherlock.xyz/contests/952/report) | Multi token, yield | Sherlock | 7th place |
+
+### Private Engagements
+
+| Protocol | Description | Report |
+| -------------- | ----------- | ------ |
+| [Cat.Town](https://cat.town/) | GameFi onchain world, using KIBBLE ERC20 Token deployed on Base that is an automatic liquidity providing protocol | [Report](https://github.com/algizsec/audits/blob/2551276e58b2e6a7da4b5e141b2768f3d0213eb7/reports/Cat.World%20-%20Audit%20Report.pdf) |
+| [Tobyworld](https://toadgod.xyz/) | Large community-driven DeFi system built on Base | [Report](https://github.com/algizsec/audits/blob/2551276e58b2e6a7da4b5e141b2768f3d0213eb7/reports/Tobyworld%20-%20Audit%20Report.pdf) |
